@@ -1,0 +1,13 @@
+
+.main-div{
+    display: flex;
+    flex-wrap: wrap;
+}
+.div1{
+    width: 50%;
+    margin: 10px;
+}
+.main-div{
+    display: flex;
+    margin: 30px 90px;
+}
